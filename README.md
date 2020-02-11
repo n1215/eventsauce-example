@@ -2,7 +2,7 @@
 
 イベントソーシングのライブラリ[EventSauce](https://eventsauce.io/)を利用するサンプルコード。
 
-PHPerKaigi 2020のスライド用。
+[PHPerKaigi 2020の発表スライド](https://speakerdeck.com/n1215/phptoeventsaucedeshi-meruibentososinguapurikesiyon)用。
 
 ## 内容
 - ソーシャルゲームにおいてユーザ所持キャラクターを獲得、強化する処理の簡略版
